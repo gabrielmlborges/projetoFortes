@@ -1,0 +1,52 @@
+body {
+    background-color: #2D4BA2;
+}
+
+div {
+    background-color: #2D4BA2;
+}
+
+.container {
+    padding: 20px 0px;
+}
+
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    flex-wrap: nowrap;
+}
+
+.teste {
+    width: 50%;
+    margin: 0px auto;
+}
+
+input {
+    border: none;
+    width: 100%;
+}
+
+span {
+    width: 10%;
+}
+
+a {
+    color: white;
+    padding-left: 10px;
+}
+
+#aaa {
+    text-align: right;
+}
+
+label {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.col {
+    margin: auto;
+}
