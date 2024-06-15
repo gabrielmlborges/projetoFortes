@@ -40,6 +40,7 @@ a {
     color: white;
     font-weight: bold;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .botao {
@@ -57,6 +58,7 @@ a {
 td > a {
     color: blue;
     padding: 0px;
+    text-decoration: underline;
 }
 
 .table {

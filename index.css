@@ -40,6 +40,7 @@ a {
     color: white;
     font-weight: bold;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .botao {
@@ -54,22 +55,6 @@ a {
     border: 1px solid black;
 }
 
-main {
-    display: flex;
-    padding: 30px;
-}
-
-main :last-child {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-section {
-    width: 50%;
-    margin: auto;
-}
-
 h1 {
     font-weight: bold;
     font-size: 40px;
@@ -77,4 +62,18 @@ h1 {
 
 p {
     font-size: 18px;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    margin-top: 30px;
+}
+
+.conteiner {
+    width: 60%;
 }

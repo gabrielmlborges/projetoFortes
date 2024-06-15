@@ -35,6 +35,7 @@ span {
 a {
     color: white;
     padding-left: 10px;
+    text-decoration: none;
 }
 
 #aaa {
